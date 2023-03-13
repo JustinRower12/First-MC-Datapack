@@ -1,0 +1,1 @@
+tellraw @p {"text":"Loaded and working","color":"green"}

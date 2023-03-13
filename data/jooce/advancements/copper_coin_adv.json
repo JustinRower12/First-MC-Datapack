@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "award_copper": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "jooce:copper_coin"
+            }
+        }
+    },
+    "rewards": {
+        "function": "jooce:give_copper_coin"
+    }
+}
